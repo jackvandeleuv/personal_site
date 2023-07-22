@@ -1,3 +1,20 @@
-.maintitle {
-    color: blue;
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-title {
+    font-size: x-large;
+}
+
+.body-section {
+    display: none;
+}
+
+.main-body {
+    display: flex;
+    flex-direction: column; 
+}
+
+.section-header {
+    text-align: left;
 }
